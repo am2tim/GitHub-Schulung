@@ -1,4 +1,2 @@
 # GitHub Schulung
- Internet im Unternehmen
- Hallo das ist ein Test
- Test 2
+Tim, Heinsberg
